@@ -1,4 +1,4 @@
-# SMART-RESTURANT-WITH-E-MENU-CARD-USING-ARDUINO
+# Smart-Restaurent-With-E-Menu-Card-Using-Arduino
 ***
 ### ABSTRACT
 ***
